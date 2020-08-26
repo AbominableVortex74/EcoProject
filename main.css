@@ -6,18 +6,13 @@
 } 
 
 body {
-	background: #262626;
+	background-color: #262626;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
-  border-radius: 5px;
-  padding-left: 10px;
-  padding-right: 10px;
+.holder {
+  background-image: linear-gradient(to right, #3282b8, #0f4c75);
 }
 
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.text-holder {
+  color: white;
 }
